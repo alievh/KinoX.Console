@@ -1,0 +1,12 @@
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\bin\Debug\net6.0\KinoX.Core.deps.json
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\bin\Debug\net6.0\KinoX.Core.dll
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\bin\Debug\net6.0\KinoX.Core.pdb
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.sourcelink.json
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.dll
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\refint\KinoX.Core.dll
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\KinoX.Core.pdb
+C:\Users\hsyna\Desktop\KinoX\KinoX.Core\obj\Debug\net6.0\ref\KinoX.Core.dll

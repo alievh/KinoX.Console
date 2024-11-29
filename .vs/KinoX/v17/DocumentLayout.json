@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsyna\\Desktop\\KinoX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21C9A-4F2B-431D-AC1C-65FDDDF9A44A}|KinoX.App\\KinoX.App.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21C9A-4F2B-431D-AC1C-65FDDDF9A44A}|KinoX.App\\KinoX.App.csproj|solutionrelative:kinox.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\implementations\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\implementations\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.core\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|solutionrelative:kinox.core\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\implementations\\hallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\implementations\\hallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\implementations\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\implementations\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\interfaces\\isessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\interfaces\\ihallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\interfaces\\ihallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6E6F66-7ADB-43EB-9DB7-8C4B67F340CE}|KinoX.Services\\KinoX.Services.csproj|solutionrelative:kinox.services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|solutionrelative:kinox.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175ECC68-2F8C-4A7F-B20A-8566A82533E9}|KinoX.Data\\KinoX.Data.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.data\\dal\\kinoxdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175ECC68-2F8C-4A7F-B20A-8566A82533E9}|KinoX.Data\\KinoX.Data.csproj|solutionrelative:kinox.data\\dal\\kinoxdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.core\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|solutionrelative:kinox.core\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.core\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|solutionrelative:kinox.core\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.core\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|solutionrelative:kinox.core\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|c:\\users\\hsyna\\desktop\\kinox\\kinox.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2994A74-97D7-4490-8955-3F709BD7C48F}|KinoX.Core\\KinoX.Core.csproj|solutionrelative:kinox.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\MovieService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Implementations\\MovieService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\MovieService.cs",
+              "RelativeToolTip": "KinoX.Services\\Implementations\\MovieService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:39:25.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HallService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\HallService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Implementations\\HallService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\HallService.cs",
+              "RelativeToolTip": "KinoX.Services\\Implementations\\HallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:39:09.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\SessionService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Implementations\\SessionService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\SessionService.cs",
+              "RelativeToolTip": "KinoX.Services\\Implementations\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:38:37.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\ReservationService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Implementations\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Implementations\\ReservationService.cs",
+              "RelativeToolTip": "KinoX.Services\\Implementations\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:38:07.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\IReservationService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Interfaces\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\IReservationService.cs",
+              "RelativeToolTip": "KinoX.Services\\Interfaces\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:37:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISessionService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\ISessionService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Interfaces\\ISessionService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\ISessionService.cs",
+              "RelativeToolTip": "KinoX.Services\\Interfaces\\ISessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:36:10.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.App\\Program.cs",
+              "RelativeDocumentMoniker": "KinoX.App\\Program.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.App\\Program.cs",
+              "RelativeToolTip": "KinoX.App\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:17:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "KinoX.Core\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Enums\\Genre.cs",
+              "RelativeToolTip": "KinoX.Core\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:06:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHallService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\IHallService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Interfaces\\IHallService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\IHallService.cs",
+              "RelativeToolTip": "KinoX.Services\\Interfaces\\IHallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:35:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "KinoX.Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "KinoX.Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:33:17.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KinoXDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Data\\DAL\\KinoXDbContext.cs",
+              "RelativeDocumentMoniker": "KinoX.Data\\DAL\\KinoXDbContext.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Data\\DAL\\KinoXDbContext.cs",
+              "RelativeToolTip": "KinoX.Data\\DAL\\KinoXDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:13:11.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "KinoX.Core\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Reservation.cs",
+              "RelativeToolTip": "KinoX.Core\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:10:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "KinoX.Core\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Session.cs",
+              "RelativeToolTip": "KinoX.Core\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:08:05.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "KinoX.Core\\Models\\Hall.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Hall.cs",
+              "RelativeToolTip": "KinoX.Core\\Models\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:07:36.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KinoX.Core\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "KinoX.Core\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:01:54.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "KinoX.Core\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\KinoX\\KinoX.Core\\Models\\Movie.cs",
+              "RelativeToolTip": "KinoX.Core\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:01:17.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
